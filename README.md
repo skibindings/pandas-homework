@@ -1,1 +1,1 @@
-# pandas-homework
+# Разбираюсь с библиотекой pandas 
